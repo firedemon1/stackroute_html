@@ -67,12 +67,12 @@
   text-justify: inter-word;
 }
 
-.wrap section {
+.wrap .child {
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-.wrap section button {
+.wrap button {
   background-color: #008CBA;
   color: white;
 }
