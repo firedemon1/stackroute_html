@@ -102,6 +102,12 @@
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
     }
+    .carousel-inner .item img {
+        height: 200px;
+    }
+    .modal-body {
+      font-size:10px;
+    }
 }
 
 /** Why to watch anime section **/
@@ -233,4 +239,12 @@
 
 section a {
   text-align: center;
+}
+
+.dropdown-menu {
+  background: white  !important;
+}
+
+.modal-body {
+  text-align: justify;
 }
