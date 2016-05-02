@@ -149,7 +149,7 @@
 
 /** Some common css for font-family font-size etc., **/
 .top_anime li a, .top_anime ol, .watch_anime a, .watch_anime ol {
-  font-family: 'Brush Script MT', cursive;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
@@ -221,4 +221,16 @@
 
 .header h1, .header p {
   color: white;
+}
+
+.list-group-item {
+  background: #ffffcc;
+}
+
+.list-group-item p {
+  color: black;
+}
+
+section a {
+  text-align: center;
 }
